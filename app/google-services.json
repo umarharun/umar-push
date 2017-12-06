@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "603327455563",
+    "firebase_url": "https://pushumar-ab33f.firebaseio.com",
+    "project_id": "pushumar-ab33f",
+    "storage_bucket": "pushumar-ab33f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603327455563:android:75408c0dc0f2cc15",
+        "android_client_info": {
+          "package_name": "com.example.umar.umar_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603327455563-lkmors9frau7egirre0f1cqengnt1dh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVQpL7puDYpIqjNb0kjx0Rhy1CfS1rQHU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
